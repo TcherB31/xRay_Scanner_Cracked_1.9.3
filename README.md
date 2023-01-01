@@ -1,4 +1,4 @@
-# xRay_Scanner_Cracked_1.9.1
+# xRay_Scanner_Cracked_1.9.3
 xRay is a fairly powerful scanner that will allow you to scan and scout targets, as well as use yaml templates to scan vulnerabilities. Features that this scanner uses:
 
     1, the detection speed is fast. The hair bag is fast; the vulnerability detection algorithm is efficient.
